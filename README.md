@@ -9,10 +9,4 @@
 ✅ تقارير احترافية (HTML/PDF)  
 ✅ تكامل كامل مع Nuclei Templates  
 ✅ دعم البروكسي و User-Agent مخصص  
-✅ نظام تسجيل أخطاء متقدم  
-
-## التثبيت:
-```bash
-git clone https://github.com/yourname/vuln-scanner
-cd vuln-scanner
-pip install .
+✅ نظام تسجيل أخطاء متقدم
